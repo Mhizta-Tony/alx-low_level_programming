@@ -5,7 +5,7 @@
  *
  * Return: Always (Success)
  */
-int min (void)
+int main(void)
 {
 	char c;
 
@@ -23,3 +23,4 @@ int min (void)
 
 	return (0);
 }
+	
