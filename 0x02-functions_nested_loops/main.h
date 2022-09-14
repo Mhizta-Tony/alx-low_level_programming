@@ -16,4 +16,4 @@ Void print_to_98(int n);
 Void print_times_table(int n);
 Void num(int r, int n);
 
-#endif
+#endif:
